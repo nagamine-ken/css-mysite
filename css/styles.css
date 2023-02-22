@@ -1,0 +1,41 @@
+body {
+    background-color:#fbf9f0;
+    margin: 0;
+}
+
+.top-container {
+    background-color:#40c2cf;
+    border: solid 1em;
+    border-color:#131346;
+    height: 200px;
+    padding: 2em;
+    width: 200px;
+    margin: 2em;
+}
+
+h1 {
+    color: #131346;
+    margin: 0;
+}
+
+p {
+    margin-top: 0.20em;
+}
+
+.middle-container {
+    background-color: #131346;
+    border: solid 20px;
+    border-color:#f04c23;
+    height: 200px;
+    width: 200px;
+    margin-left: 330px;
+}
+
+.bottom-container {
+    background-color: #f04c23;
+    border: solid 10px;
+    border-color:#131346;
+    height: 200px;
+    width: 200px;
+    margin-left: 570px;
+}
